@@ -3,6 +3,8 @@
 ## About
 This is a containerized implementation of ForgeRock's Remote Connector Server.  This is typically used as an on premise connector when syncing data between an external source and ForgeRock's Identity Cloud.
 ## Getting Started
+### Prerequisites
+* I used a specific version of the RCS file from ForgeRock to build this.  A future update could be made to use newer versions.  Also, for enterprise users you'll likely put this into Artifactory and build from there.
 
 ### Clone this repo 
 Use ```git clone``` or clone however you prefer.
