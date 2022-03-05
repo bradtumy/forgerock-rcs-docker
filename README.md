@@ -4,6 +4,8 @@
 This is a containerized implementation of ForgeRock's Remote Connector Server.  This is typically used as an on premise connector when syncing data between an external source and ForgeRock's Identity Cloud.
 ## Getting Started
 
+### Clone this repo 
+Use ```git clone``` or clone however you prefer.
 ### Build Image 
 docker build -t demo/forgerock-rcs .
 
